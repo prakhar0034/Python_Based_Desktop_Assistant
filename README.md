@@ -45,13 +45,16 @@ Before running NOVA, ensure you have:
    ```bash
    git clone https://github.com/your-username/project-name.git
    cd project-name
-2. **Run NOVA**: Execute the main script using:'
+2. **Run NOVA**:
+   Execute the main script using:'
    ```bash
    python nova.py
-3. **Speak Your Commands**: Activate NOVA and give commands such as:
+3. **Speak Your Commands**:
+   Activate NOVA and give commands such as:
 - "What’s the weather today?"
 - "Open Notepad."
 - "Tell me the latest news."
+4. Customize: Update scripts to add more functionality.
    
 
 ---
