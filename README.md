@@ -19,5 +19,14 @@ Before running NOVA, ensure you have:
 - **Python 3.7 or above** installed on your system.  
 - Install the necessary Python libraries by running:  
   ```bash  
-  pip install -r requirements.txt  
+  pip install -r requirements.txt
+
+---
+## Technologies Used
+- **Programming Language**: Python
+Libraries and Tools:
+PyAudio: Audio streaming
+SpeechRecognition: Voice command processing
+pyttsx3: Text-to-speech conversion
+Requests: API communication
 
