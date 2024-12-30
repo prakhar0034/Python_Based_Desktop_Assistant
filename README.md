@@ -37,7 +37,15 @@ Before running NOVA, ensure you have:
 ### APIs
 - **OpenWeatherMap**: Weather updates  
 - **NewsAPI**: News retrieval  
-- **Google APIs**: Productivity tools  
+- **Google APIs**: Productivity tools
+---
+
+## How to Use
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/your-username/project-name.git
+   cd project-name
+
 ---
 
 ## Project Impact
