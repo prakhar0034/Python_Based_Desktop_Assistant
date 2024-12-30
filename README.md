@@ -22,11 +22,21 @@ Before running NOVA, ensure you have:
   pip install -r requirements.txt
 
 ---
+
 ## Technologies Used
-- **Programming Language**: Python
-- **Libraries and Tools**:
-PyAudio: Audio streaming
-SpeechRecognition: Voice command processing
-pyttsx3: Text-to-speech conversion
-Requests: API communication
+
+### Programming Language
+- **Python**
+
+### Libraries and Tools
+- **PyAudio**: Audio streaming  
+- **SpeechRecognition**: Voice command processing  
+- **pyttsx3**: Text-to-speech conversion  
+- **Requests**: API communication  
+
+### APIs
+- **OpenWeatherMap**: Weather updates  
+- **NewsAPI**: News retrieval  
+- **Google APIs**: Productivity tools  
+
 
