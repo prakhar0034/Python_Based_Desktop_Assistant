@@ -43,13 +43,13 @@ Before running NOVA, ensure you have:
 ## Project Impact
 The NOVA desktop assistant has a significant impact on productivity and user experience:
 
--**Increased Productivity**: Automates routine tasks like checking the weather, managing applications, and retrieving news updates. This helps save time and allows users to focus on more important tasks.
+- **Increased Productivity**: Automates routine tasks like checking the weather, managing applications, and retrieving news updates. This helps save time and allows users to focus on more important tasks.
 
--**Improved Accessibility**: Using voice commands, NOVA makes it easier for individuals with disabilities to interact with their computer. It allows hands-free control, making tasks more accessible.
+- **Improved Accessibility**: Using voice commands, NOVA makes it easier for individuals with disabilities to interact with their computer. It allows hands-free control, making tasks more accessible.
 
--**Enhanced User Experience**: The use of AI to recognize and execute voice commands streamlines computer interaction, making it more intuitive and user-friendly.
+- **Enhanced User Experience**: The use of AI to recognize and execute voice commands streamlines computer interaction, making it more intuitive and user-friendly.
 
--**Time Management**: By quickly performing tasks such as setting reminders or opening applications, NOVA helps users manage their time more effectively, boosting overall efficiency.
+- **Time Management**: By quickly performing tasks such as setting reminders or opening applications, NOVA helps users manage their time more effectively, boosting overall efficiency.
 
 Feel free to enhance NOVA by adding more features and exploring new ways to improve its capabilities.
 
