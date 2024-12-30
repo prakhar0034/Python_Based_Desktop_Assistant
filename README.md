@@ -24,7 +24,7 @@ Before running NOVA, ensure you have:
 ---
 ## Technologies Used
 - **Programming Language**: Python
-Libraries and Tools:
+- **Libraries and Tools**:
 PyAudio: Audio streaming
 SpeechRecognition: Voice command processing
 pyttsx3: Text-to-speech conversion
